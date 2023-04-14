@@ -57,5 +57,26 @@ function init() {
     })
 };
 
+// view departments
+const viewDepartments = () => {
+    let query = "SELECT * FROM department";
+    connection.query(query, function (err, res) {
+        if (err) throw err;
+        console.log(res);
+    });
+};
+// view roles
+
+// view employees
+
+// add department
+
+// add roles
+
+// add employees
+
+// update employee roles
+
+
 
 init();
