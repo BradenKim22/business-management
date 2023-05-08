@@ -123,7 +123,7 @@ const addRole = () => {
                 name: "departmentID",
                 type: "list",
                 choices: function () {
-                    return res.map((role) => ({ name: department.name, value: department.id }))
+                    return res.map((department) => ({ name: department.name, value: department.id }))
                 },
                 message: "Select the Department for the New Role.",
             },
