@@ -49,7 +49,7 @@ N/A
 
 ## Walkthrough Video
 
-Follow the link for the deployed application https://drive.google.com/file/d/1y76FirwuQvf1bN4GxggxdyG1I_sXno-K/view
+Follow the link for the walkthrough video https://drive.google.com/file/d/1y76FirwuQvf1bN4GxggxdyG1I_sXno-K/view
 
 ## License
 
